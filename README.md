@@ -26,10 +26,16 @@ O programa permite aos jogadores fazer apostas de três tipos diferentes e verif
    ```
 
 3. Utilize o Java para executar o arquivo:
-
+   ## Via console
    ```shell
    java .\LotoFacil.java
    ```
+   ou
+   ## Via GUI
+      ```shell
+   java .\LotoFacilGUI.java
+   ```
+   
 
 ## Menu LOTOFÁCIL
 
